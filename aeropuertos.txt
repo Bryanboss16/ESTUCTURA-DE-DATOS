@@ -1,0 +1,13 @@
+# CODIGO;CIUDAD;PAIS
+UIO;Quito;Ecuador
+GYE;Guayaquil;Ecuador
+CUE;Cuenca;Ecuador
+OCC;El Coca;Ecuador
+LOH;Loja;Ecuador
+MEC;Manta;Ecuador
+GPS;Galápagos (Baltra);Ecuador
+BOG;Bogotá;Colombia
+LIM;Lima;Perú
+PTY;Panamá;Panamá
+MIA;Miami;EE.UU.
+MAD;Madrid;España
